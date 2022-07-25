@@ -1,3 +1,5 @@
+windows/386
+windows/amd64
 linux/amd64
 linux/386
 linux/ppc64
@@ -5,5 +7,3 @@ linux/ppc64le
 linux/mips64
 linux/mips64le
 linux/rpi
-windows/386
-windows/amd64
